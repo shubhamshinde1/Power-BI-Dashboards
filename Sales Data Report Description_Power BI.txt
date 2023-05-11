@@ -1,0 +1,15 @@
+The Sales Data Report presents insights and analysis based on the sales data sourced from Data Camp. The report comprises of six pages, each showcasing different aspects of the sales data.
+
+Page 1 presents the Sum of Profit and Total including Tax KPI, along with the Quantity of Items sold by Year in a Bar Chart. Additionally, the report includes the Item sold description along with the salesperson name for demo purposes.
+
+Page 2 includes a filter for Wingtip Toys, displaying the Total Sum Including Tax, Average Credit Limit on the card, and Profits by State in an Azure Map.
+
+Page 3 showcases all financials in a Tabular format using a Matrix. This includes Profit by Year, City with the Highest Profit, Profit by Year and Month, and Customers with the Least Orders.
+
+Page 4 presents the Most Profit by Employee, Highest Sales by State, Comparison for Yearly and Monthly Sales by Salesperson, and Highest Sales by City.
+
+Page 5 highlights the Highest Sales in a day(Lowest Sales Day is shown as ascending order is selected in visual), Quarterly Sales, Head Office Sales, Highest Chiller Items sold by Salesperson, and Highest Dry Items sold by Salesperson.
+
+Page 6 includes a Bubble Chart that showcases the Total Including Tax, Profit, and Quantity by State Province and Year. Additionally, the chart displays the Profits by States.
+
+Overall, this Sales Data Report provides valuable insights and analysis on the sales data, which can help businesses make informed decisions and improve their sales performance.
