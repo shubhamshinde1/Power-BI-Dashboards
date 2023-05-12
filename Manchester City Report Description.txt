@@ -1,0 +1,18 @@
+Manchester City Report is a comprehensive Power BI Dashboard(PDF version) that provides insightful analysis and visualization of data sourced from Kaggle. The report offers several filters that allow users to navigate through specific leagues, teams, and seasons.
+
+1st Page:
+a) Presents a table that shows the team's total wins, points, and draws by season. The points are color-coded using conditional formatting to help users quickly identify the seasons with the highest and lowest points, wins, and draws. Additionally, a stacked bar chart shows the total wins per season, with the latest year displayed at the top. 
+b) Clustered column chart showcases the sum of games, sum of wins, and win percentage. A line chart visualizes the winning percentage of the team season-wise, making it easy to spot changes in win percentage over the years.
+
+2nd Page:
+a) Uses a sync slicer to display the same filters as the first page. A table showcases the total matches played and points earned from 2009 to 2021. 
+b) Key influencer analysis is used to identify what factors influence the team when the average number of goals increases. 
+c) A clustered bar chart displays the season with the most shots on target based on average shots on target.
+
+3rd Page:
+a) Implements space optimization using sync slicers and in-page navigation. 
+The bookmarks Counter Attack Goals, Shots on Target, and Penalty Goals can be viewed turn by turn by Ctrl+clicking on them. 
+b) A clustered column chart showcases the total goals conceded and scored in a particular season, while another chart displays the shots on target faced by the team from opponents.
+
+4th Page: 
+Scatter chart to cluster teams across all leagues based on most wins and draws, classifying them into three clusters. Users can easily identify FC Barcelona and Real Madrid at the top for most wins, and Bordeaux and AFC Fiorentina as teams with the most draws. Overall, the Manchester City Report provides a wealth of information for users to gain insights into Manchester City's performance, making it an excellent resource for fans and analysts alike.
